@@ -276,7 +276,7 @@
 				DEVELOPMENT_TEAM = ZNVH9D6AWM;
 				INFOPLIST_FILE = DrawLine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xigkdrawline;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xigk.drawline;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -289,7 +289,7 @@
 				DEVELOPMENT_TEAM = ZNVH9D6AWM;
 				INFOPLIST_FILE = DrawLine/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xigkdrawline;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xigk.drawline;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -314,6 +314,7 @@
 				0B310AB11DC33E3500C385C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
